@@ -1,11 +1,10 @@
+//mag lalagay ng items
+
+
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
-import java.sql.PreparedStatement;
-import java.sql.ResultSet;
-import java.sql.SQLException;
-import java.util.logging.Level;
-import java.util.logging.Logger;
+
 
 public class EnterFood {
 
